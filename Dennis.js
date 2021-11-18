@@ -11,7 +11,7 @@ console.log(
 
 // Aufgabenstellung Teil 2 : Wir wollen eine Schleife so lange ausführen, wie ein Nutzer angemeldet ist.
 
-// 1. Erstelle eine Variable isLoggedIn und setze den Wert auf true.
+
 
 let isLoggedIn = true ;
 
